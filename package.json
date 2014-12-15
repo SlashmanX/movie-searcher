@@ -1,0 +1,30 @@
+{
+    "name": "moviesearcher-x",
+    "version": "0.0.1",
+    "description": "Search your favourite movies for a torrent or magnet file.",
+    "main": "index.js",
+    "tags": [
+        "torrent",
+        "search",
+        "movie"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "SlashmanX"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "q": "^1.0.1",
+        "request": "*",
+        "xml2js": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/SlashmanX/movie-earcher.git"
+    },
+    "bugs": {
+        "url": "https://github.com/SlashmanX/movie-searcher/issues"
+    }
+}
