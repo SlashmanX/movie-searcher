@@ -4,7 +4,7 @@ var request = require('request'),
 	parser = new xml2js.Parser(),
 	originalRequest;
 
-var KICKASS_URL = 'http://kickassunblock.net/';
+var KICKASS_URL = 'http://kat.al/';
 
 //searching for the torrent
 var getSearchRSS = function(searchString, callback) {
